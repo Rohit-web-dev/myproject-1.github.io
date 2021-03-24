@@ -24,7 +24,9 @@ i{
 	color: #2fccd0;
 }
 
-.i:hover{ color: cyan; }
+i:hover{
+	color: cyan;
+}
 
 .header{
 	width: 100%;
