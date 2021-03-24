@@ -24,6 +24,8 @@ i{
 	color: #2fccd0;
 }
 
+.i:hover{ color: cyan; }
+
 .header{
 	width: 100%;
 	height: 100vh;
@@ -441,11 +443,6 @@ i{
 
 .footer-icon{
 	margin: 20px;
-}
-
-.footer-icon:hover {
-	transform: translateY(-20px);
-	box-shadow: 0 0 20px 0 rgba(0,0,0,0.4);
 }
 
 /*===================Closed Footer Section=====================*/
